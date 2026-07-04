@@ -16,8 +16,8 @@ I used a real dataset of 7,043 customers and tried to find out why customers lea
 - Window Functions (NTILE, RANK, AVG OVER)
 - CTEs (including using multiple CTEs together)
 
- Tools
+ Tools:
 MySQL Workbench
 
-Dataset
+Dataset:
 Telco Customer Churn dataset from Kaggle
